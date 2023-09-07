@@ -33,6 +33,8 @@ class FoodMapApplicationTests {
 			System.out.println(item);
 		}
 		System.out.println(res);
+		System.out.println("123");
 	}
+	
 
 }
